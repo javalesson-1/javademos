@@ -5,6 +5,5 @@ public class Main {
         String mesaj = "Öğrenci sayısı : ";
         System.out.println(mesaj + ogreciSayisi);
         System.out.println("Öğrenci sayım : "+ogreciSayisi);
-
     }
 }
